@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40" started-at="2019-01-02T03:31:08Z" finished-at="2019-01-02T03:31:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40" started-at="2019-01-02T03:31:08Z" finished-at="2019-01-02T03:31:08Z">
+      <class name="day07.yunsuantestng">
+        <test-method status="PASS" signature="Aadd(int, int)[pri:0, instance:day07.yunsuantestng@f5f2bb7]" name="Aadd" duration-ms="12" started-at="2019-01-02T11:31:08Z" data-provider="add" finished-at="2019-01-02T11:31:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aadd -->
+        <test-method status="PASS" signature="Aadd(int, int)[pri:0, instance:day07.yunsuantestng@f5f2bb7]" name="Aadd" duration-ms="1" started-at="2019-01-02T11:31:08Z" data-provider="add" finished-at="2019-01-02T11:31:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aadd -->
+        <test-method status="PASS" signature="Aadd(int, int)[pri:0, instance:day07.yunsuantestng@f5f2bb7]" name="Aadd" duration-ms="0" started-at="2019-01-02T11:31:08Z" data-provider="add" finished-at="2019-01-02T11:31:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aadd -->
+      </class> <!-- day07.yunsuantestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <parameter name="a1" value="10"></parameter>
+  <parameter name="a2" value="20"></parameter>
+    <classes>
+      <class name="day07.yunsuantestng"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

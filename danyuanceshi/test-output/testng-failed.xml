@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="day07.yunsuantestng">
+        <methods>
+          <include name="chu" invocation-numbers="0 1 2"/>
+          <include name="Aadd" invocation-numbers="0 1 2"/>
+          <include name="jian" invocation-numbers="0 1 2"/>
+          <include name="cheng" invocation-numbers="0 1 2"/>
+        </methods>
+      </class> <!-- day07.yunsuantestng -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
