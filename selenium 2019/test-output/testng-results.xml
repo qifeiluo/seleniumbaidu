@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16765" started-at="2019-03-05T07:08:20Z" finished-at="2019-03-05T07:08:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16765" started-at="2019-03-05T07:08:20Z" finished-at="2019-03-05T07:08:36Z">
+      <class name="day01.ahead">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:day01.ahead@71e7a66b]" name="setUp" is-config="true" duration-ms="16739" started-at="2019-03-05T15:08:20Z" finished-at="2019-03-05T15:08:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="open()[pri:0, instance:day01.ahead@71e7a66b]" name="open" duration-ms="6" started-at="2019-03-05T15:08:36Z" finished-at="2019-03-05T15:08:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:day01.ahead@71e7a66b]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-03-05T15:08:36Z" finished-at="2019-03-05T15:08:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- day01.ahead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
